@@ -1,4 +1,4 @@
-# Welcome to National Parks UML
+# National Parks UML
 
 ---
 
@@ -163,10 +163,3 @@ Installation is not required.
 _How does it work?_\
 The UML diagram can be accessed on draw.io.
 This is draw.io link: https://drive.google.com/file/d/1YfX7r8sqtuGD2h_ktvo3byREEDJn2QwP/view?usp=sharing
-
-### The Core Team
-
-Natalie P.
-<br>
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering College</a></i></span>
-<span><img alt="Qwasar SV -- Software Engineering School's Logo" src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
